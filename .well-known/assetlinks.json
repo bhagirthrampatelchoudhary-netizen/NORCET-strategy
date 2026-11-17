@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.bhagirthrampatelchoudhary_netizen.twa",
+        "sha256_cert_fingerprints": ["31:24:F6:E9:83:A8:A6:E7:AA:F5:D7:B4:5E:48:C4:92:15:E2:46:FB:DC:36:46:DD:08:3E:5D:7D:35:BA:8C:2A"]
+      }
+    }]
