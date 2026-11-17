@@ -1,7 +1,9 @@
 {
   "name": "NORCET Strategy",
   "short_name": "NORCET",
-  "start_url": "index.html",
+  "description": "NORCET Nursing Exam Preparation and Strategy App",
+  "start_url": "/NORCET-strategy/index.html",
+  "scope": "/NORCET-strategy/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
